@@ -40,7 +40,7 @@ Database: MySQL
 Environment Management: Virtualenv
 
 Installation
-Clone the repository: git clone https://github.com/your-username/YATRIGANN.git
+Clone the repository: git clone https://github.com/Ujjwal05-05/YATRIGANN.git
 
 Create and activate a virtual environment: python -m venv .venv .venv\Scripts\activate
 
